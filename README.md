@@ -10,11 +10,11 @@ NO DISCRITION
 
 <p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
 
-<button onclick="document.getElementById('myImage').src='Untitled2.gif'">Turn on the light</button>
+<button onclick="document.getElementById('myImage').src='image1.gif'">Turn on the light</button>
 
-<img id="myImage" src="Untitled.gif"style="width:100px">
+<img id="myImage" src="image2.gif"style="width:100px">
 
-<button onclick="document.getElementById('myImage').src='Untitled.gif' ">Turn off the light</button>
+<button onclick="document.getElementById('myImage').src='image2.gif' ">Turn off the light</button>
 
 </body>
 </html>
